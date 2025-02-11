@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada: directly concatenating a Boolean value with a string using the ampersand operator. Ada's strongly-typed nature requires explicit conversion for such operations. The solution shows how to correctly handle this using the Boolean's Image attribute.
